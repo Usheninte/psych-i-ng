@@ -2,7 +2,7 @@
 
 ... this website is still in its beta stage     
 ... and will be fully functional come     
-... January, next year     
+... January, 2018    
      
 ... till then     
 ... let the spirit     
