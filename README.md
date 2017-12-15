@@ -9,7 +9,7 @@
 ... of art's icy fire     
 ... never cool within you.     
 
-[DESIGNED BY: @poetrique](http://instagram.com/poetrique)
+DESIGNED BY: [@poetrique](http://instagram.com/poetrique)
 
 ![psych-i-ng_LOGO](http://res.cloudinary.com/poetrique/image/upload/c_scale,q_auto:best,w_500/v1513300654/psych-i-ng/psych-i-ng.png)
 
