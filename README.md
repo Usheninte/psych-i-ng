@@ -4,10 +4,10 @@
 ... and will be fully functional come     
 ... January, next year     
      
-... till then
-... let the spirit
-... of art's icy fire
-... never cool within you
+... till then     
+... let the spirit     
+... of art's icy fire     
+... never cool within you.     
 
 [DESIGNED BY: @poetrique](http://instagram.com/poetrique)
 
