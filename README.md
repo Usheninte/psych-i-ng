@@ -15,6 +15,8 @@ DESIGNED BY: [@poetrique](http://instagram.com/poetrique)
 
 ### &copy; PSYCH-I-NG, All Rights Reserved.
 
-MAINTAINED BY:
-#### [@Usheninte](http://twitter.com/Usheninte)
-#### [James C. Uche](http://twitter.com/Jamex6)
+- - -
+
+###### MAINTAINED BY:
+[@Usheninte](http://twitter.com/Usheninte)
+[James C. Uche](http://twitter.com/Jamex6)
