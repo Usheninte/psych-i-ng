@@ -18,5 +18,6 @@ DESIGNED BY: [@poetrique](http://instagram.com/poetrique)
 - - -
 
 ###### MAINTAINED BY:
-[@Usheninte](http://twitter.com/Usheninte)
-[James C. Uche](http://twitter.com/Jamex6)
+[@Usheninte](http://twitter.com/Usheninte)    
+     &     
+[James C. Uche](http://twitter.com/Jamex6)      
