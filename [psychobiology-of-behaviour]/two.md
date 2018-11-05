@@ -6,11 +6,7 @@
 
 The plantar reflex is a reflex elicited when the sole of the foot is stimulated with a blunt instrument. The reflex can take one of two forms. In normal adults, the plantar reflex causes a downward response of the hallux (flexion). An upward response (extension) of the hallux is known as the Babinski response or Babinski sign, named after the neurologist Joseph Babinski. The presence of the Babinski sign can identify disease of the spinal cord and brain in adults, and also exists as a primitive reflex in infants.
 
-It has been understood that the plantar reflex involves more movements than just the toes. In most mammals, the limbs are automatically retracted to a painful stimulus. This defensive reflex is controlled by polysynaptic pathways of spinal cord.
-
-The reaction is more pronounced in the hind limbs, since the anterior ones are under more direct control of the brain . Not only the skin, but deeper structures have receptors that can generate this movement.
-
-The reflex effects on the human leg when stimulating the sole of the foot, are comparable to those of the animals.
+It has been understood that the plantar reflex involves more movements than just the toes. In most mammals, the limbs are automatically retracted to a painful stimulus. This defensive reflex is controlled by polysynaptic pathways of spinal cord. The reaction is more pronounced in the hind limbs, since the anterior ones are under more direct control of the brain . Not only the skin, but deeper structures have receptors that can generate this movement. The reflex effects on the human leg when stimulating the sole of the foot, are comparable to those of the animals.
 
 Most infants and young children are not neurologically mature, so they show the Babinski reflex. Unlike older babies, flexion is much faster. The toes rise while giving ankle, knee and hip flexion.
 
