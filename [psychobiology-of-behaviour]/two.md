@@ -8,11 +8,7 @@ The plantar reflex is a reflex elicited when the sole of the foot is stimulated 
 
 It has been understood that the plantar reflex involves more movements than just the toes. In most mammals, the limbs are automatically retracted to a painful stimulus. This defensive reflex is controlled by polysynaptic pathways of spinal cord. The reaction is more pronounced in the hind limbs, since the anterior ones are under more direct control of the brain . Not only the skin, but deeper structures have receptors that can generate this movement. The reflex effects on the human leg when stimulating the sole of the foot, are comparable to those of the animals.
 
-Most infants and young children are not neurologically mature, so they show the Babinski reflex. Unlike older babies, flexion is much faster. The toes rise while giving ankle, knee and hip flexion.
-
-As the pyramidal system matures and there is more control of the spinal motoneurons, changes in the flexion reflex are given. The most important change occurs after one or two years, and is that the fingers are no longer part of the synergy of flexion.
-
-While another observed change is that the flexion reflex becomes less pronounced.
+Most infants and young children are not neurologically mature, so they show the Babinski reflex. Unlike older babies, flexion is much faster. The toes rise while giving ankle, knee and hip flexion. As the pyramidal system matures and there is more control of the spinal motoneurons, changes in the flexion reflex are given. The most important change occurs after one or two years, and is that the fingers are no longer part of the synergy of flexion. While another observed change is that the flexion reflex becomes less pronounced.
 
 However, the neurophysiology of Babinski's reflex has not yet been fully understood. From studies Electromyographic , It is known that each skin zone appears to have a specific reflex response to noxious stimuli. The purpose of the reflex is to cause the removal of the skin from such a stimulus.
 
