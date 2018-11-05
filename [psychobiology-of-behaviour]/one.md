@@ -17,3 +17,7 @@ Another notion states that yawning is the body's way of controlling brain temper
 Still, another hypothesis suggests yawns are caused by the same chemicals (neurotransmitters) in the brain that affect emotions, mood, appetite, and other phenomena. These chemicals include serotonin, dopamine, glutamic acid, and nitric oxide. As more (or fewer) of these compounds are activated in the brain, the frequency of yawning increases.
 
 Yawning behavior may be altered as a result of medical issues such as diabetes, stroke, or adrenal conditions.
+
+- - -
+
+* [Back](./key.md)
