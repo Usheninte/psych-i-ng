@@ -4,7 +4,7 @@
 
 2. What happens to the brain when 'babinsk reflex' occurs? _[File Here](./two.md)_
 
-3. Which hormone is affected, when you deprive yourself of  sleep? _[File Here](./three.md)_
+3. Which hormone is affected, when you deprive yourself of sleep? _[File Here](./three.md)_
 
 - - -
 [Back Home](../README.md)
