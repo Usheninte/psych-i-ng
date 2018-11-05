@@ -14,7 +14,7 @@ However, it is not just the glucose intolerance working against you. Sleep depri
 ### Cortisol
 What is cortisol? It helps our bodies respond to stress appropriately so that we don’t become ill. People who do not produce adequate levels of cortisol are diagnosed with Addison’s disease and suffer from numerous problems. So, you need cortisol in the right amounts and at the right times. However, bedtime is not when you want your cortisol to be high as it heightens alertness.
 
-Chronic sleep deprivation seems to mess cortisol secretion up. In studies on individuals who were sleep deprived (four hours of sleep per night), evening cortisol levels were elevated and the levels decreased six times slower when compared to control subjects. These elevations in cortisol further increase the likelihood of developing diabetes and obesity. 
+Chronic sleep deprivation seems to mess cortisol secretion up. In studies on individuals who were sleep deprived (four hours of sleep per night), evening cortisol levels were elevated and the levels decreased six times slower when compared to control subjects. These elevations in cortisol further increase the likelihood of developing diabetes and obesity.
 
 - - -
 
