@@ -33,6 +33,12 @@ Some of the most heated and entrenched types of conflict stem from a basic diffe
 
 Hot button issues such as politics and religion can make even simple disagreements feel like a personal attack on an individual’s worth as a person or value to the company or society as a whole. Understandably, people tend to take attacks on sensitive issues personally and they may find it difficult to separate themselves from their ideas. When these conflicts fester in the workplace, the resulting strife can be deeply divisive and create an atmosphere filled with tension and resentment, even for people not directly involved in the dispute.
 
+#### 4. Conflicts Based on Personality
+
+Sometimes, a conflict needs nothing more than two strong personalities to come into close contact with each other. Typically, conflicts based on personality differences may seem to be petty and overblown to an outside observer. The initial inciting incident could well involve something relatively insignificant. However, if the parties involved refuse to back down or resolve the difference, the conflict smolders and grows.
+
+To resolve this kind of conflict among coworkers, some creativity may be required. Managers may find it more efficient to reassign one of the participants, in appropriate circumstances. Otherwise, both parties will need to commit to some frank self-assessment. In many cases, a personality conflict arises when individuals spot traits in each other that they’re not comfortable with or especially proud of in themselves.
+
 
 
 - - -
