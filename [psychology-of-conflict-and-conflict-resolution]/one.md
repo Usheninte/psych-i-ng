@@ -15,6 +15,10 @@ Conflict is a peculiar thing. It has been defined in various ways:
 * an active disagreement between people with opposing opinions or principles  
 [`[https://dictionary.cambridge.org/dictionary/english/conflict]`](https://dictionary.cambridge.org/dictionary/english/conflict)
 
+The four causes of conflict are: differing aims and methods, competing or disparage goals, differences in philosophies and personality conflicts.
+
+#### 1. Aims and Methods in Task Completion
+
 - - -
 
 * [Back](./key.md)
