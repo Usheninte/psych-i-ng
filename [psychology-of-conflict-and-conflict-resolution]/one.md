@@ -19,6 +19,10 @@ The four causes of conflict are: differing aims and methods, competing or dispar
 
 #### 1. Aims and Methods in Task Completion
 
+Conflict can arise when people have different aims. For example, two people may disagree about the best way to complete a task. Each believe their method to be the superior one, and each individual may then feel compelled to defend their choices. This type of conflict is particularly common in situations where a deadline is pressing. If the deadline is met, quality will suffer. If quality standards are maintained, the deadline will not be met. When one team member is willing to sacrifice timeliness and the other believes quality should be sacrificed, the resulting conflict in some ways cuts to the heart of the nature and mission of the business itself.
+
+
+
 - - -
 
 * [Back](./key.md)
