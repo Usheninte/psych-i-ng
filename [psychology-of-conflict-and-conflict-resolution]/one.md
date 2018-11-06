@@ -39,7 +39,9 @@ Sometimes, a conflict needs nothing more than two strong personalities to come i
 
 To resolve this kind of conflict among coworkers, some creativity may be required. Managers may find it more efficient to reassign one of the participants, in appropriate circumstances. Otherwise, both parties will need to commit to some frank self-assessment. In many cases, a personality conflict arises when individuals spot traits in each other that they’re not comfortable with or especially proud of in themselves.
 
+#### * Other Sources of Conflict
 
+In addition to these four key causes, conflict may be triggered or intensified by a number of other factors. Chief among these is poor communication skills. An inability to explain goals and objectives in a positive, constructive way can foster an unpleasant environment in which serious conflicts can erupt.
 
 - - -
 
