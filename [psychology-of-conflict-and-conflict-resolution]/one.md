@@ -27,6 +27,14 @@ Conflict may also arise where the goals of the individuals involved differ or ar
 
 This type of conflict often occurs when business, departmental or team goals are not clearly communicated by managers and leaders to their employees. As a result, those employees may disagree fundamentally on what the goal actually was. Consequently, conflict arises as they each proceed based on a firm certainty of the correctness of their individual perspectives.
 
+#### 3. Ideas, Beliefs and Philosophies
+
+Some of the most heated and entrenched types of conflict stem from a basic difference in ideas, beliefs or philosophies. This has become more evident on a worldwide basis over the last several years, as political disagreements seem to create increasingly wide chasms between polar opposite viewpoints and political partisanship. Additionally, individuals seem to identify themselves by their political beliefs and other key aspects of their identities, creating an inherent conflict with anyone who identifies with different beliefs, parties, nationalities or religions.
+
+Hot button issues such as politics and religion can make even simple disagreements feel like a personal attack on an individual’s worth as a person or value to the company or society as a whole. Understandably, people tend to take attacks on sensitive issues personally and they may find it difficult to separate themselves from their ideas. When these conflicts fester in the workplace, the resulting strife can be deeply divisive and create an atmosphere filled with tension and resentment, even for people not directly involved in the dispute.
+
+
+
 - - -
 
 * [Back](./key.md)
