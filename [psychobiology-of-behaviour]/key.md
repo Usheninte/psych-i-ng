@@ -2,7 +2,7 @@
 
 - - -
 
-# <span style="color: #5d5d5d;">Key Questions</span>
+# <span style="color: #5d5d5d; text-decoration: underline; text-decoration-color: #61dafb;">Key Questions</span>
 
 1. What happens to the body system when one yawns? _[File Here](./one.md)_
 
