@@ -1,4 +1,4 @@
-##### Psychobiology Of Behaviour
+##### Psychobiology of Behaviour
 
 - - -
 
