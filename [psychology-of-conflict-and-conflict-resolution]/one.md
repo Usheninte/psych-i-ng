@@ -2,9 +2,9 @@
 
 - - -
 
-(1) **What are four scholarly definitions of conflict, and what are four causes of conflict?**
+(1) **What are scholarly definitions of conflict, and what are four causes of conflict?**
 
-Conflict is a peculiar thing. It has been defined:
+Conflict is a peculiar thing. It has been defined in various ways:
 
 * as competitive or opposing action of incompatibles : antagonistic state or action (as of divergent ideas, interests, or persons)  
 [`[https://www.merriam-webster.com/dictionary/conflict]`](https://www.merriam-webster.com/dictionary/conflict)

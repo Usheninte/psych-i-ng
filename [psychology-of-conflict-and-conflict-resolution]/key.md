@@ -4,7 +4,7 @@
 
 # <span style="color: #5d5d5d; text-decoration: underline; text-decoration-color: #61dafb;">Key Questions</span>
 
-1. What are four scholarly definitions of conflict, and  
+1. What are scholarly definitions of conflict, and  
  what are four causes of conflict? _[File Here](./one.md)_
 
 - - -
