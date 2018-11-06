@@ -21,7 +21,11 @@ The four causes of conflict are: differing aims and methods, competing or dispar
 
 Conflict can arise when people have different aims. For example, two people may disagree about the best way to complete a task. Each believe their method to be the superior one, and each individual may then feel compelled to defend their choices. This type of conflict is particularly common in situations where a deadline is pressing. If the deadline is met, quality will suffer. If quality standards are maintained, the deadline will not be met. When one team member is willing to sacrifice timeliness and the other believes quality should be sacrificed, the resulting conflict in some ways cuts to the heart of the nature and mission of the business itself.
 
+#### 2. Competing or Disparate Goals
 
+Conflict may also arise where the goals of the individuals involved differ or are contradictory in nature. Individuals have their own needs. They set goals, create agendas and make decisions based on those needs. The business itself also has established goals and objectives. At any point in time, any two or more of these goals and objectives may be in actual or perceived conflict with each other.  
+
+This type of conflict often occurs when business, departmental or team goals are not clearly communicated by managers and leaders to their employees. As a result, those employees may disagree fundamentally on what the goal actually was. Consequently, conflict arises as they each proceed based on a firm certainty of the correctness of their individual perspectives.
 
 - - -
 
